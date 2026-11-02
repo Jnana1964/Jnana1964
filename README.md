@@ -108,17 +108,11 @@
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jnana1964&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
-</div>
-
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jnana1964&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnana1964&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="180" src="https://raw.githubusercontent.com/Jnana1964/Jnana1964/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/Jnana1964/Jnana1964/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -126,10 +120,6 @@
 </div>
 
 ## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnana1964&bg_color=0d1117&color=dc143c&line=dc143c&point=ffffff&area=true&area_color=dc143c&hide_border=true&title_color=dc143c" alt="Contribution graph" />
-</div>
 
 <div align="center">
   <picture>
